@@ -1,0 +1,9 @@
+# Query: bonik
+# ContextLines: 1
+
+1 result - 1 file
+
+package.json:
+  1  {
+  2:   "name": "Jutti_Store",
+  3    "version": "0.1.0",
